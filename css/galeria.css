@@ -1,0 +1,25 @@
+.galeria {
+    background-color: rgb(255, 255, 255);
+    padding: 80px 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.galeria img {
+    border-radius: 10px;
+    padding: 15px;
+    width: 100%;
+    cursor: pointer;
+    background-color: rgb(86, 97, 255);
+}
+
+.galeria img:hover {
+    box-shadow: 0 0 10px 5px rgb(74, 177, 245);
+    transition: 0.5s ease-out;
+}
+
+#galeria-modal .modal-img {
+    width: 100%;
+}

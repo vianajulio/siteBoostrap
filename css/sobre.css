@@ -1,0 +1,10 @@
+#sobre{
+    display: flex;
+    width: auto;
+    padding: 10px;
+    background-color: rgb(219, 219, 219);
+}
+
+#sobre h3, p, li{
+    font-weight: 400;
+}

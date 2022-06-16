@@ -1,0 +1,47 @@
+.inputs {
+    background-color: rgba(206, 206, 206, 0.22);
+}
+
+.bg-AzulEscuro {
+    background-color: rgb(36, 25, 180);
+}
+
+.bg-CinzaClaro{
+    background-color: rgb(182, 182, 182);
+}
+
+header img{
+    border-radius: 150px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.navbar{ 
+    height: 65px;
+}
+
+.nav-item :hover {
+    font-size: 18px;
+    letter-spacing: 1px;
+    transition: 0.5s ease-in-out;
+}
+
+.negrito{
+    font-weight: 600;
+}
+
+#planocurso{
+    justify-content: center;
+}
+
+#planoconteudo {
+    display: block;
+    border: 2px solid;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(184, 184, 184);
+}
